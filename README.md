@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm s4yem</h1>
+<h1 align="center">Hi, I'm s4yem</h1>
 <h3 align="center">Computer Science & Networks Engineering Student</h3>
 
 <p align="center"> 
@@ -7,11 +7,11 @@
 
 ---
 
-- 🔭 I’m currently working on [Vigilant-X](https://github.com/saadobr/Vigilant-X)
-- 🌱 I’m currently learning **Advanced Ethical Hacking, Network Security, & Cloud Infrastructure**
-- 👯 I’m looking to collaborate on [Open-Source Cybersecurity Tools & Network Security Projects](https://github.com/saadobr)
-- 🤝 I’m looking for help with **Advanced Threat Hunting & SIEM Integration**
-- 👨‍💻 All of my projects are available at [https://github.com/saadobr](https://github.com/saadobr)
+- I’m currently working on [Vigilant-X](https://github.com/saadobr/Vigilant-X)
+- I’m currently learning **Advanced Ethical Hacking, Network Security, & Cloud Infrastructure**
+- I’m looking to collaborate on [Open-Source Cybersecurity Tools & Network Security Projects](https://github.com/saadobr)
+- I’m looking for help with **Advanced Threat Hunting & SIEM Integration**
+- All of my projects are available at [https://github.com/saadobr](https://github.com/saadobr)
 
 ---
 
