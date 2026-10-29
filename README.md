@@ -50,5 +50,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8&height=100&section=footer&text=Stay%20Secure%20&%20Keep%20Coding&fontSize=20&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8&height=100&section=footer" />
 </p>
