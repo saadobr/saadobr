@@ -45,16 +45,7 @@
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
-
+<h3 align="center">Security & Code in Action</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4yem&layout=compact&theme=transparent" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s4yem&show_icons=true&theme=transparent" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s4yem&theme=dark" alt="GitHub Streak" />
+  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="600" alt="Hacker Terminal GIF" />
 </p>
