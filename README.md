@@ -45,7 +45,10 @@
 
 ---
 
-<h3 align="center">Security & Code in Action</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="600" alt="Hacker Terminal GIF" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Hacker Terminal Animation" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8&height=100&section=footer&text=Stay%20Secure%20&%20Keep%20Coding&fontSize=20&fontColor=ffffff" />
 </p>
