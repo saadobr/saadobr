@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm s4yem</h1>
 <h3 align="center">Computer Science & Networks Engineering Student</h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=s4yem&label=Profile%20views&color=0e75b6&style=flat" alt="s4yem" /> 
-</p>
 
 ---
 
